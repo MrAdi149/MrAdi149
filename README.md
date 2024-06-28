@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Aditya Kumar Singh. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">-Hey there, I'm Aditya Kumar Singh. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
 #### I'm a mobile developer
 
@@ -7,7 +7,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/MrAdi149?label=follow&style=social)](https://github.com/MrAdi149)
 
 
-### Tech Stack
+### ⚡ Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)
@@ -16,7 +16,7 @@
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 
 
-### Secondary skills
+### ⚡ Secondary skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
@@ -34,9 +34,10 @@
 I love learning new things and looking for innovative solutions. My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone. 
 
 
-### Github Statistic
+### ⚡ Github Stat
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAdi149&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f5)](https://github.com/t8rin)
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=MrAdi149&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/MrAdi149 "Stats")<br>
+
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdi149&hide=python,scss,html&theme=tokyonight)
 
