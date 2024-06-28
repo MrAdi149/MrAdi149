@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Aditya Kumar Singh
 
 #### I'm a mobile developer
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-adityakumarsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/MrAdi149)
 
 
 ![Frame 32 (2)](https://github.com/T8RIN/T8RIN/assets/52178347/6b09e04e-4e17-4dca-b316-15947435b65a)
@@ -31,7 +33,7 @@ I love learning new things and looking for innovative solutions. My main goal is
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAdi149&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f5)](https://github.com/t8rin)
 
-![Aditya's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdi149&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,MrAdi149.github.io,gims-dump,device_oneplus_avicii,oos-cam)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdi149&hide=python,scss,html&theme=tokyonight)
 
 Viewer Count :
 ![Visitor Count](https://profile-counter.glitch.me/{MrAdi149}/count.svg)
