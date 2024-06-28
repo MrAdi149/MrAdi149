@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Aditya Kumar Singh
 
 #### I'm a mobile developer
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-adityakumarsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-adityakumarsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)](https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/MrAdi149)
 
 
