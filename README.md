@@ -1,15 +1,11 @@
-### Hi there 👋, my name is Aditya Kumar Singh
+<h1 align="center">Hey there, I'm Aditya Kumar Singh. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
 #### I'm a mobile developer
+
+### 📫 How to reach me:
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-adityakumarsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)](https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/MrAdi149?label=follow&style=social)](https://github.com/MrAdi149)
 
-
-![Frame 32 (2)](https://github.com/T8RIN/T8RIN/assets/52178347/6b09e04e-4e17-4dca-b316-15947435b65a)
-
-
-
-I love learning new things and looking for innovative solutions. My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone. 
 
 ### Tech Stack
 
@@ -27,6 +23,15 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+
+
+![Frame 32 (2)](https://github.com/T8RIN/T8RIN/assets/52178347/6b09e04e-4e17-4dca-b316-15947435b65a)
+
+
+
+I love learning new things and looking for innovative solutions. My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone. 
 
 
 ### Github Statistic
