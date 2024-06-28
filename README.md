@@ -25,14 +25,16 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
 
-![Frame 32 (2)](https://github.com/T8RIN/T8RIN/assets/52178347/6b09e04e-4e17-4dca-b316-15947435b65a)
 
+- 🔭 I love learning new things and looking for innovative solutions. 
+- 👨‍💻 My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone.
+- 📫 Love to play Chess.
 
-
-I love learning new things and looking for innovative solutions. My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone. 
-
+<br>
 
 ### ⚡ Github Stat
 
