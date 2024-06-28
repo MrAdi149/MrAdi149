@@ -30,4 +30,8 @@ I love learning new things and looking for innovative solutions. My main goal is
 ### Github Statistic
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAdi149&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f5)](https://github.com/t8rin)
+![Aditya's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdi149&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,RumitPatel.github.io,gims-dump,device_oneplus_avicii,oos-cam)
+
+Viewer Count :
+ ![Visitor Count](https://profile-counter.glitch.me/{MrAdi149}/count.svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrAdi149&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5)](https://github.com/t8rin)
