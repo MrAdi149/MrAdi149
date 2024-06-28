@@ -2,7 +2,7 @@
 
 #### I'm a mobile developer
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-adityakumarsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)](https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/MrAdi149)
+[![GitHub Thaiane](https://img.shields.io/github/followers/MrAdi149?label=follow&style=social)](https://github.com/MrAdi149)
 
 
 ![Frame 32 (2)](https://github.com/T8RIN/T8RIN/assets/52178347/6b09e04e-4e17-4dca-b316-15947435b65a)
