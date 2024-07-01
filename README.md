@@ -4,6 +4,10 @@
 
 #### I'm a mobile developer
 
+- 🔭 I love learning new things and looking for innovative solutions. 
+- 👨‍💻 My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone.
+- 📫 Love to play Chess.
+
 ### 📫 How to reach me:
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-adityakumarsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)](https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/MrAdi149?label=follow&style=social)](https://github.com/MrAdi149)
@@ -30,14 +34,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-- 🔭 I love learning new things and looking for innovative solutions. 
-- 👨‍💻 My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone.
-- 📫 Love to play Chess.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
