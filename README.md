@@ -21,7 +21,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ⚡<a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing](https://drive.google.com/file/d/1y1zyeNZbeseCaH4DNPnhVR1pq4tZT33Q/view?usp=sharing"> Resume</a>
+### ⚡<a href="https://drive.google.com/file/d/1y1zyeNZbeseCaH4DNPnhVR1pq4tZT33Q/view?usp=sharing"> Resume</a>
 
 
 
