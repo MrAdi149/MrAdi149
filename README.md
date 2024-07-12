@@ -3,6 +3,7 @@
 <img src="./github.gif" width="100"/>
 
 <h1 align="center">-Hey there, I'm Aditya Kumar Singh. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
 
 </div>
 
@@ -19,6 +20,9 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/MrAdi149?label=follow&style=social)](https://github.com/MrAdi149)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⚡<a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing](https://drive.google.com/file/d/1y1zyeNZbeseCaH4DNPnhVR1pq4tZT33Q/view?usp=sharing"> Resume</a>
+
 
 
 ### ⚡ Tech Stack
