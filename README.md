@@ -99,7 +99,7 @@ Viewer Count :
   <tbody>
     <tr>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrAdi149">
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrAdi149&">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrAdi149&theme=dracula"/>
         </a>
       </th>
@@ -113,12 +113,12 @@ Viewer Count :
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrAdi149">
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrAdi149&">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrAdi149&theme=dracula"/>
         </a>
       </td>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrAdi149">
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrAdi149&">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrAdi149&theme=dracula"/>
         </a>
       </td>
