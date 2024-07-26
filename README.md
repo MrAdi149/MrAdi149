@@ -48,7 +48,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 📊 **this week i spent my time on:**
 
 
-
+```text
 kotlin       18 hrs 33 mins  ██████████████▒░░░░░░░░░░   58.69 %
 Java         5 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.92 %
 JavaScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
