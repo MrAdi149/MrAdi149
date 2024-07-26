@@ -65,10 +65,51 @@ Git Config   12 mins         ▒░░░░░░░░░░░░░░░░
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=MrAdi149\&theme=ambient_gradient\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)<br>
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MrAdi149's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MrAdi149&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MrAdi149's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdi149&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook,python" height="192px"/></a>
+  <br/>
+</details>
 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrAdi149&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+
+<details>
+  <summary>Extra Pins 📌</summary>
+  <br/>
+  <a href="https://github.com/MrAdi149/Gita">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdi149&repo=Gita&theme=dracula" />
+</a>
+  <br/>
+  <br/>
  
- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdi149&hide=python,scss,html&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdi149)
+   <a href="https://github.com/MrAdi149/pdf-chatbot-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdi149&repo=pdf-chatbot-app&theme=dracula" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/MrAdi149/GestureRecognizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdi149&repo=GestureRecognizer&theme=dracula" />
+ </a>
+
+
+   <br/>
+  <br/>
+ 
+   <a href="https://github.com/MrAdi149/AR-Indoor-Navigation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrAdi149&repo=AR-Indoor-Navigation&theme=dracula" />
+ </a>
+ 
+</details>
 
 
 Viewer Count :
@@ -92,26 +133,6 @@ Viewer Count :
       </td>
     </tr>
   </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAdi149">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAdi149&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=MrAdi149">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=MrAdi149&theme=dracula">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <table>
   <tbody>
     <tr>
