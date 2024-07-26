@@ -45,6 +45,19 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+kotlin       18 hrs 33 mins   ██████████████▒░░░░░░░░░░  58.69 %
+Java         5 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.92 %
+JavaScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+C#           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+```
+
+<!--END_SECTION:waka-->
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
