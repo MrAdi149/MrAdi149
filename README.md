@@ -52,10 +52,10 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=MrAdi149&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/MrAdi149 "Stats")<br>
+[![Stats](https://github-readme-stats.vercel.app/api?username=MrAdi149\&theme=ambient_gradient\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)<br>
 
  
- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdi149&hide=python,scss,html&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120)
+ [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdi149&hide=python,scss,html&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdi149)
 
 
 Viewer Count :
