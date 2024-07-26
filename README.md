@@ -49,7 +49,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 <!--START_SECTION:waka-->
 
 ```txt
-kotlin       18 hrs 33 mins   ██████████████▒░░░░░░░░░░  58.69 %
+kotlin       18 hrs 33 mins  ██████████████▒░░░░░░░░░░   58.69 %
 Java         5 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.92 %
 JavaScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 C#           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
