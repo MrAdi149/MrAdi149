@@ -13,7 +13,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 
 - 🔭 I love learning new things and looking for innovative solutions. 
 - 👨‍💻 My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone.
-- 📫 Love to play Chess.
+- ♔ Love to play Chess.
 
 ### 📫 How to reach me:
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-adityakumarsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)](https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)
