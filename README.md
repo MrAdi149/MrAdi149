@@ -2,18 +2,18 @@
 
 <img src="./github.gif" width="100"/>
 
-<h1 align="center">-Hey there, I'm Aditya Kumar Singh. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
-Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### I'm a mobile developer
+  <p align="center">
+  <a href="https://github.com/MrAdi149"><img src="https://readme-typing-svg.herokuapp.com/?lines=😎Aditya%20Kumar%20Singh;🔗%20Software%20Engineer;👨‍💻%20Fullstack%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
-- 🔭 I love learning new things and looking for innovative solutions. 
 - 👨‍💻 My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone.
+- 🔭 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
 - ♔ Love to play Chess.
+
 
 ### 📫 How to reach me:
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-adityakumarsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)](https://www.linkedin.com/in/aditya-kumar-singh-9980a51ba/)
@@ -63,7 +63,9 @@ Git Config   12 mins         ▒░░░░░░░░░░░░░░░░
 
 <img  align="right"  width="350" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
+<h4 align="left">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h4>
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
