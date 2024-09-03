@@ -18,7 +18,7 @@
 
 - 👨‍💻 My main goal is to keep up with the times and constantly improve skills, along the way creating convenient applications that will be useful to everyone.
 - 🔭 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
-- ♔ Love to play Ches.
+- ♔ I Love to play Chess.
 
 
 ### 📫 How to reach me:
